@@ -52,5 +52,3 @@ Run the compiled executable:
 └── members.txt                    # Generated persistent member database
 
 Would you like me to help you create a `.gitignore` file to prevent executable files (`.exe`) from being uploaded to GitHub?
-
-```
